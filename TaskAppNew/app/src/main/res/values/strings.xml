@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TaskAppNew</string>
+    <string name="add_note">Add Note</string>
+    <string name="trget">TRGET</string>
+    <string name="target">TARGET</string>
+</resources>
