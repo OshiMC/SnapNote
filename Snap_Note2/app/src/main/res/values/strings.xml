@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">Snap_Note</string>
+        <string name="add_note">Add Note</string>
+        <string name="trget">TRGET</string>
+        <string name="target">TARGET</string>
+
+</resources>
